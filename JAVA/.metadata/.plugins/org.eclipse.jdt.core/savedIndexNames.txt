@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Santiago Flórez\OneDrive\Documentos\3er semestre Sistemas Santiago\Programacion2\JAVA\.metadata\.plugins\org.eclipse.jdt.core
+2055787256.index
+991174305.index
+1434746301.index
+3857078055.index
+1695662857.index
